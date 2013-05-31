@@ -1,0 +1,31 @@
+{
+  "name": "eiochanges",
+  "version": "0.0.0",
+  "description": "Sync changes to named stores via engine.io",
+  "main": "index.js",
+  "dependencies": {
+    "eiojson": "~0.9.0"
+  },
+  "devDependencies": {
+    "cleanup": "~0.2.0",
+    "engine.io": "~0.5.0",
+    "engine.io-client": "~0.5.0",
+    "okdone": "~0.2.0",
+    "eioemitter": "~0.1.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/eiochanges"
+  },
+  "keywords": [
+    "eio",
+    "engine.io",
+    "couchdb",
+    "changes"
+  ],
+  "author": "Mikeal Rogers",
+  "license": "BSD"
+}
