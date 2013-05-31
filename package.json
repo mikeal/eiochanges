@@ -1,6 +1,6 @@
 {
   "name": "eiochanges",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sync changes to named stores via engine.io",
   "main": "index.js",
   "dependencies": {
